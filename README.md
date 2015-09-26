@@ -227,6 +227,7 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 * [A Software Engineer's Guide to Getting Started with Data Science](http://bit.ly/1jwgV4p)
 * [Data Scientist Interviews / Metamarkets](http://bit.ly/1r1tJot)
 * [/r/MachineLearning](http://bit.ly/1uANaEM)
+* [Safari Books Online](http://bit.ly/1JWN96S) - O'Reilly Media and Pearson Technology Group digital library
 
 #### Watch
 * [The Life of a Data Scientist / Josh Wills](https://www.youtube.com/watch?v=h9vQIPfe2uU)
